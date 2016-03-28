@@ -9,3 +9,20 @@ touch .gitignore
 bower install bootstrap
 bower install angular
 doskey /history >> cmd.log
+npm install express
+npm install express --save
+git init
+git remote add origin https://github.com/onlove/shop.git
+git push -u origin master
+git add .
+git commit -m"初始化"
+git push -u origin master
+git status
+git add -A
+git commit -m"初始化"
+git config --global user.email "505566896@qq,com"
+git config --global user.name "onlove"
+git add -A
+git commit -m"初始化"
+git push -u origin master
+doskey /history >> cmd.log
