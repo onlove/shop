@@ -1,0 +1,11 @@
+npm install -g bower
+bower -v
+bower install bootstrap
+git
+npm init
+touch .bowerrc
+bower init
+touch .gitignore
+bower install bootstrap
+bower install angular
+doskey /history >> cmd.log

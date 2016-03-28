@@ -1,0 +1,29 @@
+{
+  "name": "shop",
+  "description": "node net shop",
+  "main": "index.js",
+  "authors": [
+    "hulinhai"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "net",
+    "shop"
+  ],
+  "moduleType": [],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/public/lib",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6",
+    "angular": "^1.5.3",
+    "angular-route": "^1.5.3"
+  }
+}
